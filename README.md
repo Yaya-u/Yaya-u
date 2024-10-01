@@ -74,7 +74,7 @@
 <section id="contact">
     <h2>Contact</h2>
     <p>Pour toute question ou suggestion, n'hésitez pas à me contacter à l'adresse suivante :</p>
-    <p><strong>Email : </strong>votremail@example.com</p>
+    <p><strong>Email : </strong>colaertyanis2@gamil.com</p>
 </section>
 
 <footer>
